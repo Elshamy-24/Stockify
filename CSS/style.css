@@ -1,0 +1,16 @@
+ /* tagNname{} -> select with tag 
+ 
+ .className{} -> select with class    Note: you can give tag more than class 
+
+#id{} -> select with id  
+
+container.class{} -> select container with class 
+
+container.class element{} ->  select element in container with class 
+
+
+container.class#id element{} -> select element in container with class and specific id  
+
+element,element,element{} grouping -> select more than element*/
+
+
