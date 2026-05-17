@@ -23,7 +23,7 @@
 * **Stateful Form Control:** Automatically manages view toggles between "Add" and "Save Changes" states, resetting form fields cleanly upon event execution.
 ---
 ## Application Screenshot 📸
-![Stockify Dashboard](./Stockify-Screenshots/WhatsApp%20Image%202026-05-17%20at%205.16.11%20AM.jpeg)
+![Stockify Dashboard](./Stockify-Screenshots/Stockify.jpeg)
 
 ## 🛠️ Tech Stack
 
