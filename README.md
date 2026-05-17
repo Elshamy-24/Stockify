@@ -2,6 +2,7 @@
 
 **Stockify** is a smart and comprehensive product management platform (CRUD System) built entirely with frontend vanilla web technologies. It allows users to seamlessly Add, Read, Update, and Delete products, featuring advanced functionalities like real-time search, persistent local storage, and intelligent image encoding.
 
+🔗 **Check out the [Live Demo](https://elshamy-24.github.io/Stockify/)!** 🔥
 ---
 ### 1. Robust Data Persistence (`LocalStorage` Workflow)
 * **State Synchronization:** The application implements an asynchronous-like state pipeline where every mutating operation (`Add`, `Update`, `Delete`) instantly synchronizes the in-memory array with the browser's `LocalStorage`.
@@ -21,6 +22,8 @@
 * **Persistent Storage:** Backed by `LocalStorage` to guarantee that all product records persist across browser refreshes and sessions.
 * **Stateful Form Control:** Automatically manages view toggles between "Add" and "Save Changes" states, resetting form fields cleanly upon event execution.
 ---
+## Application Screenshot 📸
+![Stockify Dashboard](./Stockify-Screenshots/WhatsApp%20Image%202026-05-17%20at%205.16.11%20AM.jpeg)
 
 ## 🛠️ Tech Stack
 
